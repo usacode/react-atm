@@ -1,0 +1,21 @@
+.atm-container {
+  background-color: purple;
+  padding: 20px;
+  border-radius: 10px;
+  justify-content: center; /* Center content horizontally */
+ 
+  color: white;
+}
+
+.transaction-button {
+  background-color: lightgreen;
+  color: black;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.transaction-button:hover {
+  background-color: limegreen;
+}
